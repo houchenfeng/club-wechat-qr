@@ -15,7 +15,7 @@
 2. 二维码卡片区(3 张,姓名逐字取自截图)
    - 星辰大海 — `河南 焦作` — `qr-xingchen-dahai.jpg`
    - 云云 — `社团工作人员` — `qr-yunyun.jpg`
-   - Serotonin🍎 — `百慕大` — `qr-serotonin.png`
+   - Serotonin🍎 — `qr-serotonin.png`
    - 卡片 = 二维码图(约 260px)+ 姓名 + 说明行
 3. 页脚
    - `若扫码失败请更换工作人员,添加时备注"社团+姓名"`
